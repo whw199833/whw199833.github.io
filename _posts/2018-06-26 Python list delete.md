@@ -1,11 +1,9 @@
 ---
-published: false
+published: true
 ---
-## A New Post
+## First Post
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
-
-How to correctly remove an element from a list during traversal?
+How to correctly remove an element from a list during traversal?(In python)
 
 One thing to notice is that if you directly remove and the pointer has already moved to the next position, while the next element. 
 
