@@ -35,11 +35,10 @@ plugins:
   - jemoji
 
 # social account
-image:
-twitter:
-  username:
+image: 
+Linkdin: Haowen Wang 
 #  site:
-facebook:
+Wechat: whw199833
   #publisher: null
   #profile_id: null
   app_id: null
