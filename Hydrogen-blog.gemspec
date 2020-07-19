@@ -5,8 +5,8 @@ Gem::Specification.new do |s|
   s.version       = "1.0"
   s.license       = "CC0-1.0"
   s.authors       = ["Link"]
-  s.email         = ["lk@atlinker.cn"]
-  s.homepage      = "https://hydrogen.atlinker.cn"
+  s.email         = ["wanghw@zju.edu.cn"]
+  s.homepage      = "https://whw199833.github.io"
   s.summary       = "Hydrogen,clean and quick response Theme For Jekyll, with your Customizable comment system "
 
   s.files         = `git ls-files -z`.split("\x0").select do |f|
